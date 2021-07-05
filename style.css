@@ -2,3 +2,52 @@ body{
     font-family: 'Inter', sans-serif;
     margin:0;
 }
+h1{
+    font-size: 40px;
+    line-height: 0.6;
+}
+p{
+    text-align: justify;
+}
+.orange{
+    color: orangered;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered,rgb(243, 124, 26));
+    color: white;
+    padding: 10px 20px;
+    font-weight: 700px;
+    border-radius: 20px;
+}
+.left-right{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.half-hrz{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.half-hrz img{
+    width: 60%;
+}
+.button-vrt-space{
+    margin-bottom: 50%;
+}
+#secone-half-bg{
+    background-image: url(pic/7.png);
+}
+#recipi-div{
+    text-align: center;
+}
+.three-box{
+     width: 30%;
+     margin: 5%;
+     padding: 5%;
+     text-align:left;
+     border-radius: 10px;
+     box-shadow: 10px,10px,20px gray;
+}
