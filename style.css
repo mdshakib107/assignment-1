@@ -6,8 +6,8 @@ h1{
     font-size: 40px;
     line-height: 0.6;
 }
-p{
-    text-align: justify;
+h2{
+    line-height: 1.5;
 }
 .orange{
     color: orangered;
@@ -37,11 +37,39 @@ p{
 #secone-half-bg{
     background-image: url(pic/7.png);
 }
+.resipi-text{
+    text-align: center;
+    padding: 20px;
+}
+.img {
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 250px;
+    height: 300px;
+    padding-left: 25px;
+    padding-top: 10px;
+  }
+  
 .food-item{
     box-shadow: 10px 10px 40px gray;
-    width: 25%
-    margin-right: 5%;
-    margin-left: 5%;
-    
-   
+    width: 30%;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 20px;
+    padding: 10px;
+}
+.followers{
+    box-shadow: 10px 10px 40px gray;
+    margin: 10%;
+    padding: 30px;
+    border-radius: 10px;
+    width: 30;
+
+}
+.footer{
+    color: gray;
+    text-align: center;
+    background-color: black;
+    padding-bottom: 40px;
+    padding-top: 10px;
 }
