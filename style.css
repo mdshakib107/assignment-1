@@ -34,20 +34,9 @@ p{
 .half-hrz img{
     width: 60%;
 }
-.button-vrt-space{
-    margin-bottom: 50%;
-}
 #secone-half-bg{
     background-image: url(pic/7.png);
 }
 #recipi-div{
     text-align: center;
-}
-.three-box{
-     width: 30%;
-     margin: 5%;
-     padding: 5%;
-     text-align:left;
-     border-radius: 10px;
-     box-shadow: 10px,10px,20px gray;
 }
