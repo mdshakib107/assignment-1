@@ -37,6 +37,11 @@ p{
 #secone-half-bg{
     background-image: url(pic/7.png);
 }
-#recipi-div{
-    text-align: center;
+.food-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 25%
+    margin-right: 5%;
+    margin-left: 5%;
+    
+   
 }
